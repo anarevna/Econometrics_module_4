@@ -8,7 +8,7 @@
 ## Содержание
 
 ### ![Описание](https://img.shields.io/badge/Лекция_1-B4B2A9?style=flat-square) Лекция 1 — Введение в временные ряды
-**Дата:** 7 апреля 2026 · ([Лекция 1 (Введение во временные ряды).pdf](https://github.com/anarevna/Econometrics_module_4/blob/9908881e4b63f78e2d355916920de13dd83efdbc/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201%20(%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B).pdf))
+**Дата:** 7 апреля 2026 · [Лекция 1 (Введение во временные ряды).pdf](https://github.com/anarevna/Econometrics_module_4/blob/9908881e4b63f78e2d355916920de13dd83efdbc/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201%20(%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B).pdf)
 
 Темы:
 - Автокорреляция и эндогенность во временных рядах
@@ -21,7 +21,7 @@
 ---
 
 ### ![Описание](https://img.shields.io/badge/Лекция_2-B4B2A9?style=flat-square) Лекция 2 — Стационарность, AR(p), MA(q), теорема Вольда
-**Дата:** 14 апреля 2026 · ([Лекция 2 (Стационарность, AR(1), MA, теорема Вольда).pdf](https://github.com/anarevna/Econometrics_module_4/blob/9908881e4b63f78e2d355916920de13dd83efdbc/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202%20(%D0%A1%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2C%20AR(1)%2C%20MA%2C%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%92%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0).pdf))
+**Дата:** 14 апреля 2026 · [Лекция 2 (Стационарность, AR(1), MA, теорема Вольда).pdf](https://github.com/anarevna/Econometrics_module_4/blob/9908881e4b63f78e2d355916920de13dd83efdbc/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202%20(%D0%A1%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2C%20AR(1)%2C%20MA%2C%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%92%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0).pdf)
 
 
 Темы:
