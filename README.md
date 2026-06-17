@@ -1,6 +1,5 @@
 ![Описание](https://img.shields.io/badge/НИУ_ВШЭ-185FA5?style=flat-square)
 ![Описание](https://img.shields.io/badge/Эконометрика-0F6E56?style=flat-square)
-![Описание](https://img.shields.io/badge/в_процессе-BA7517?style=flat-square)
 # Эконометрика временных рядов
 Конспекты лекций · 4 модуль 2025–2026
 
